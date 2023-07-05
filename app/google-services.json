@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "470498141741",
+    "project_id": "expense-tracker-66ca3",
+    "storage_bucket": "expense-tracker-66ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470498141741:android:46e9247c9108c0c713faa4",
+        "android_client_info": {
+          "package_name": "com.deepenmandve.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470498141741-2hm99u09930i5pu57v09i86edlmc07cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48JU4bFnvna8JaT_C-MZakFZ9OjNW3pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470498141741-2hm99u09930i5pu57v09i86edlmc07cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470498141741:android:ba9617d448e84c4713faa4",
+        "android_client_info": {
+          "package_name": "com.deepenmandve.expensetrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470498141741-1qd2j3ulr5q3oksibbbsupu2t2rp4eiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepenmandve.expensetrackerapp",
+            "certificate_hash": "7106037e88d9015fc620170c589d4ae8e7e82c85"
+          }
+        },
+        {
+          "client_id": "470498141741-2hm99u09930i5pu57v09i86edlmc07cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48JU4bFnvna8JaT_C-MZakFZ9OjNW3pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470498141741-2hm99u09930i5pu57v09i86edlmc07cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470498141741:android:cfe0ea321c04134513faa4",
+        "android_client_info": {
+          "package_name": "com.willteksoftwares.personalbudgetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470498141741-2hm99u09930i5pu57v09i86edlmc07cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48JU4bFnvna8JaT_C-MZakFZ9OjNW3pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470498141741-2hm99u09930i5pu57v09i86edlmc07cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
