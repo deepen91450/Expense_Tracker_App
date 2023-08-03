@@ -6,6 +6,6 @@ specifications
 - Team Size - Individual
 
 Results ScreenShots
-![](splash%20screen.jpg)
-![](registration.jpg)
-![](main%20Activity.jpg)
+![](Results%20ScreenShots/splash%20screen.jpg)
+![](Results%20ScreenShots/registration.jpg)
+![](Results%20ScreenShots/main%20Activity.jpg)
