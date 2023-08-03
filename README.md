@@ -4,3 +4,8 @@
 specifications
 - Technologies used - Android Studio, Java , Google firebase for realtime database.
 - Team Size - Individual
+
+Results ScreenShots
+![](splash%20screen.jpg)
+![](registration.jpg)
+![](main%20Activity.jpg)
