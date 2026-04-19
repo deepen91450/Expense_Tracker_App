@@ -250,8 +250,3 @@ This project is for **educational purposes**.
 
 ⭐ If you like this project, give it a star!
 
-
-Results ScreenShots
-![](Results%20ScreenShots/splash%20screen.jpg)
-![](Results%20ScreenShots/registration.jpg)
-![](Results%20ScreenShots/main%20Activity.jpg)
