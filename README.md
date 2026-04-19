@@ -172,8 +172,7 @@ These store:
 *(Add your app screenshots here for better visibility)*
 
 ```md
-![Splash screen](<img width="1080" height="2400" alt="splash screen" src="https://github.com/user-attachments/assets/407f520b-8c17-4f65-a9a6-36962e928069" />
-)
+![Splash screen]<img width="1080" height="2400" alt="splash screen" src="https://github.com/user-attachments/assets/407f520b-8c17-4f65-a9a6-36962e928069" />
 ![Login](<img width="1080" height="2400" alt="registration" src="https://github.com/user-attachments/assets/b0e9a658-2274-4a23-bbd9-cde46505c6b7" />
 )
 ![Home Screen](<img width="1080" height="2400" alt="registration" src="https://github.com/user-attachments/assets/ed8b4327-b4ef-4530-9668-44737b7e747d" />)
