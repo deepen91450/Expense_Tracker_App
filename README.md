@@ -94,8 +94,7 @@ The application follows a structured design including:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/deepen91450/basic_banking_App.git
-cd basic_banking_App
+git clone https://github.com/deepen91450/Expense_Tracker_App
 ```
 
 ### 2️⃣ Open in Android Studio
