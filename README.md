@@ -169,24 +169,46 @@ These store:
 
 ## 📸 Screenshots
 
-*(Add your app screenshots here for better visibility)*
+### 🚀 App Screens
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/407f520b-8c17-4f65-a9a6-36962e928069" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b0e9a658-2274-4a23-bbd9-cde46505c6b7" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ed8b4327-b4ef-4530-9668-44737b7e747d" width="250"/>
+</p>
+
+<p align="center">
+  <b>Splash Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Login / Register</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Home Screen</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91ec5551-9b21-44a1-9639-6055530a7c35" width="250"/>
+  <img src="https://github.com/user-attachments/assets/8c4e7b82-3138-4d60-9492-b0a76fe2d9cf" width="250"/>
+  <img src="https://github.com/user-attachments/assets/79395c0c-f62b-4ac2-9143-9a83ea3bc936" width="250"/>
+</p>
+
+<p align="center">
+  <b>Add Expense</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Analytics</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Today Analytics</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e253ccd4-f0f8-48c2-bede-ec1221ac7062" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d53cc6a8-279f-4c59-b550-82fdeeb9d170" width="250"/>
+</p>
+
+<p align="center">
+  <b>Transaction History</b>
+</p>
 
 ```md
-![Splash screen]<img width="1080" height="2400" alt="splash screen" src="https://github.com/user-attachments/assets/407f520b-8c17-4f65-a9a6-36962e928069" />
-![Login](<img width="1080" height="2400" alt="registration" src="https://github.com/user-attachments/assets/b0e9a658-2274-4a23-bbd9-cde46505c6b7" />
-)
-![Home Screen](<img width="1080" height="2400" alt="registration" src="https://github.com/user-attachments/assets/ed8b4327-b4ef-4530-9668-44737b7e747d" />)
-![Add Expense](<img width="1080" height="2400" alt="analytics" src="https://github.com/user-attachments/assets/91ec5551-9b21-44a1-9639-6055530a7c35" />
-)
-![Analytics](<img width="1080" height="2400" alt="analytics" src="https://github.com/user-attachments/assets/8c4e7b82-3138-4d60-9492-b0a76fe2d9cf" />
-)
-![Today Analytics](<img width="1080" height="2400" alt="registration" src="https://github.com/user-attachments/assets/79395c0c-f62b-4ac2-9143-9a83ea3bc936" />
-)
-![History](<img width="1080" height="2400" alt="Screenshot_2022-03-20-17-10-02-77_bfbe9f57c9cdbcfa8cac2a33bcc7a70b" src="https://github.com/user-attachments/assets/e253ccd4-f0f8-48c2-bede-ec1221ac7062" />
-)
-(<img width="1080" height="2400" alt="Screenshot_2022-03-20-17-10-10-51_bfbe9f57c9cdbcfa8cac2a33bcc7a70b" src="https://github.com/user-attachments/assets/d53cc6a8-279f-4c59-b550-82fdeeb9d170" />
-)
-```
 
 ---
 
