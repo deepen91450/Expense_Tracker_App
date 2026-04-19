@@ -179,8 +179,8 @@ These store:
 </p>
 
 <p align="center">
-  <b>Splash Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Login / Register</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Splash Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Login / Register</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Home Screen</b>
 </p>
 
@@ -195,8 +195,8 @@ These store:
 </p>
 
 <p align="center">
-  <b>Add Expense</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Analytics</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Add Expense</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Analytics</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Today Analytics</b>
 </p>
 
