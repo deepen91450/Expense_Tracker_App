@@ -174,7 +174,8 @@ These store:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/407f520b-8c17-4f65-a9a6-36962e928069" width="250"/>
   <img src="https://github.com/user-attachments/assets/b0e9a658-2274-4a23-bbd9-cde46505c6b7" width="250"/>
-  <img src="https://github.com/user-attachments/assets/ed8b4327-b4ef-4530-9668-44737b7e747d" width="250"/>
+ <img width="250"  alt="main Activity" src="https://github.com/user-attachments/assets/b7f21e28-86df-4837-8896-cc3d4efb90e4" />
+
 </p>
 
 <p align="center">
